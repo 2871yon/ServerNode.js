@@ -1,0 +1,29 @@
+{
+    "Products": [
+        {
+            "id": "1",
+            "name": "bread",
+            "amount": "6"
+        },
+        {
+            "id": "2",
+            "name": "milk",
+            "amount": ""
+        },
+        {
+            "id": "3",
+            "name": "eggs",
+            "amount": "22"
+        },
+        {
+            "id": "4",
+            "name": "cheese",
+            "amount": "4"
+        },
+        {
+            "id": "5",
+            "name": "batter",
+            "amount": "1"
+        }
+    ]
+}

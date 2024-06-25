@@ -1,0 +1,60 @@
+{
+    "Users": [
+        {
+            "id": "1",
+            "name": "SARA",
+            "password": "SARA",
+            "mail": "Sara@gmail.com",
+            "products": [
+                {
+                    "id": "1",
+                    "amountToUser": "2"
+                },
+                {
+                    "id": "2",
+                    "amountToUser": "2"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "RIVKA",
+            "password": "RIVKA",
+            "mail": "Rivka@gmail.com",
+            "products": [
+                {
+                    "id": "5",
+                    "amountToUser": "2"
+                },
+                {
+                    "id": "1",
+                    "amountToUser": "2"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "name": "RACHEL",
+            "password": "RACHEL",
+            "mail": "Rachel@gmail.com",
+            "products": [
+                {
+                    "id": "2",
+                    "amountToUser": "2"
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "name": "LEA",
+            "password": "LEA",
+            "mail": "Lea@gmail.com",
+            "products": [
+                {
+                    "id": "1",
+                    "amountToUser": "2"
+                }
+            ]
+        }
+    ]
+}

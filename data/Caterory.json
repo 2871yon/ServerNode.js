@@ -1,0 +1,21 @@
+{
+    "Caterogier": [
+        {
+            "id": "1",
+            "nameCategory": "Home"
+        },
+        {
+            "id": "2",
+            "nameCategory": "Yard"
+        },
+        {
+            "id": "3",
+            "nameCategory": "Children's Room"
+        },
+        {
+            "id": "4",
+            "nameCategory": "Baby room"
+        }
+     
+    ]
+}
